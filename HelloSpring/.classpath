@@ -10,5 +10,8 @@
 	<classpathentry kind="lib" path="C:/Users/AE103_pc11/Desktop/AiQ- JAVA/Spring4/Spring4/spring-context-support-4.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AE103_pc11/Desktop/AiQ- JAVA/Spring4/Spring4/spring-core-4.1.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/AE103_pc11/Desktop/AiQ- JAVA/Spring4/Spring4/spring-expression-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AE103_pc11/Desktop/AiQ- JAVA/Spring4/Spring4/AOP/spring-aop-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AE103_pc11/Desktop/AiQ- JAVA/Spring4/Spring4/AOP/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AE103_pc11/Desktop/AiQ- JAVA/Spring4/Spring4/spring-test-4.1.2.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

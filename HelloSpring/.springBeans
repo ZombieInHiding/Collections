@@ -9,6 +9,8 @@
 	<configs>
 		<config>src/ex1/appctx.xml</config>
 		<config>src/ex2/appctx.xml</config>
+		<config>src/ex4/appctx.xml</config>
+		<config>src/annotated.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

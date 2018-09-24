@@ -1,10 +1,11 @@
-package ex2;
+package ax2;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
+@Component("provider")
 public class MessageProvider implements ApplicationContextAware {
 	private ApplicationContext ctx;
 
